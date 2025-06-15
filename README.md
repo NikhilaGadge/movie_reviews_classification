@@ -40,13 +40,12 @@ This project was developed as part of my data science learning journey.
 
 - **Accuracy Score (on Dev Set)**: ~ 0.84
 - **Classification Report (Dev Set)**:
-- 
-               precision    recall  f1-score   support
-
-         neg       0.82      0.87      0.84       199
-         pos       0.86      0.81      0.83       201
-    accuracy       -         -         0.84       400
-   macro avg       0.84      0.84      0.84       400
-weighted avg       0.84      0.84      0.84       400
-
+ 
+| Class       | Precision | Recall | F1-Score | Support |
+|-------------|-----------|--------|----------|---------|
+| **neg**     | 0.82      | 0.87   | 0.84     | 199     |
+| **pos**     | 0.86      | 0.81   | 0.83     | 201     |
+| **accuracy**| –         | –      | **0.84** | 400     |
+| **macro avg** | 0.84    | 0.84   | 0.84     | 400     |
+| **weighted avg** | 0.84 | 0.84   | 0.84     | 400     |
 
